@@ -1,0 +1,9 @@
+# github.com/code-ready/admin-helper v0.0.7 => /home/teuf/redhat/crc/admin-helper
+## explicit
+github.com/code-ready/admin-helper/pkg/hosts
+# github.com/dimchansky/utfbom v1.1.1
+github.com/dimchansky/utfbom
+# github.com/goodhosts/hostsfile v0.0.8 => /home/teuf/freesoftware/github.com/goodhosts/hostsfile
+github.com/goodhosts/hostsfile
+# github.com/goodhosts/hostsfile => /home/teuf/freesoftware/github.com/goodhosts/hostsfile
+# github.com/code-ready/admin-helper => /home/teuf/redhat/crc/admin-helper
